@@ -3,12 +3,12 @@ const nextConfig = {
     reactStrictMode: true,
     swcMinify: true,
     env: {
-        BRAND: 'Cryptenet'
+        BRAND: 'Cryptenet',
     },
     images: {
         loader: 'akamai',
-        path: ''
-    }
+        path: '',
+    },
 };
 
 module.exports = nextConfig;
