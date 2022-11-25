@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home matches snapshot 1`] = `
+<DocumentFragment>
+  <main
+    class="c-bSoyVG"
+  >
+    <header
+      class="c-hhCXTY"
+    >
+      <nav
+        class="c-fGHXJH"
+      />
+    </header>
+    <section
+      class="c-brQYOy"
+    >
+      <div
+        class="c-iikSKv"
+        style="opacity: 0;"
+      />
+      <h1
+        class="c-hzeqAo"
+        style="opacity: 0;"
+      >
+        Next.js Boilerplate
+      </h1>
+    </section>
+    <footer
+      class="c-imBZQc"
+    >
+      <p
+        class="c-dERKKj"
+      >
+        © Cryptenet Limited 2018-2022
+      </p>
+    </footer>
+  </main>
+</DocumentFragment>
+`;
