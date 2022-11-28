@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: docker/prod.Dockerfile
+    image: cryptenet.com/nextjs-starter-prod:1.0.0
+    ports:
+      - "5001:5001"
